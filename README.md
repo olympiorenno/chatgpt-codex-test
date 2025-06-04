@@ -6,7 +6,7 @@ Este projeto é um exemplo simples para testar o uso do Codex com o ChatGPT. O c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/chatgpt-codex-test.git
+   git clone https://github.com/olympiorenno/chatgpt-codex-test.git
    cd chatgpt-codex-test
    ```
 
